@@ -1,7 +1,7 @@
 document.getElementById('application-form').addEventListener('submit', function(event) {
     event.preventDefault();
 
-    const webhookUrl = "https://discord.com/api/webhooks/1280621396195545173/vv5Fp8539X0rqmh-cKqc855WNtAG35n86GlxPlBzmbF0VF-o9FDDu0hHYQ90QasxOxqy";
+    const webhookUrl = "deneme";
 
     const name = document.getElementById('name').value;
     const age = document.getElementById('age').value;
